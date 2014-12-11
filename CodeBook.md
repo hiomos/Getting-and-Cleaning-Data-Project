@@ -2,10 +2,10 @@
 
 ## Data Source
 
-* Authors / Owners
+* Authors / Owners:
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto. 
 Smartlab - Non Linear Complex Systems Laboratory 
-DITEN - Universit√  degli Studi di Genova, Genoa I-16145, Italy. 
+DITEN - Universit√É  degli Studi di Genova, Genoa I-16145, Italy. 
 activityrecognition '@' smartlab.ws 
 www.smartlab.ws
 
